@@ -3,7 +3,7 @@ Gradient descent is an optimization algorithm which is commonly-used to train ma
 
 ## Table of Contents
 + [About](#about)
-+ [Contributing](../CONTRIBUTING.md)
++ [Contributing Guide](#CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 Purpose of this project is to demonstrate the practical implementation of how gradient descent algorithm works.
@@ -21,7 +21,7 @@ To install numpy library run the following command on terminal.
 ```
 pip install numpy
 ```
-# Contributing Guide
+# Contributing Guide <a name = "contributing guide"></a>
 
 - Contributing to The Documentation Compendium is fairly easy. This document shows you how to get started
 
